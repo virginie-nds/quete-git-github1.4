@@ -1,0 +1,31 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #ff4ecd;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  color: #facc15;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 15px;
+}
+
+body {
+  background-color: #0f172a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
